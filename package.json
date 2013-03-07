@@ -1,0 +1,17 @@
+{
+  "name": "mapservice-client",
+  "version": "0.0.0",
+  "description": "A testing client to mapservice.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cbebry/mapservice-client.git"
+  },
+  "author": "Christopher Bebry",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "e362315470cc263b570cc2f640fe6cf1789ed5bb"
+}

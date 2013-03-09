@@ -16,6 +16,7 @@ npm-debug.log
 .gitignore
 7zignore.lst
 buildnw.bat
+buildnw.sh
 bin
 bin/*
 build
